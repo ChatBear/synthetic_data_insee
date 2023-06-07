@@ -1,0 +1,6 @@
+- https://github.com/sdv-dev/SDV
+- https://github.com/topics/synthetic-data-generation
+- https://www.nature.com/articles/d41586-023-01445-8
+- https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-040720-031848
+- https://link.springer.com/chapter/10.1007/978-3-540-87471-3_20
+- https://www.mdpi.com/2227-7390/10/15/2733
